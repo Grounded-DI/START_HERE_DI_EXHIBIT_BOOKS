@@ -19,7 +19,21 @@ Choose the reading route that matches your purpose:
 - Governance and chronology: Public Record - Chronology, The Evidence Arc, and The Control Plane.
 - Technical case studies: Before Reality Resolved - DI Weather Station and MathWise / Erdos - Mathematical Record.
 - Benchmark review: Cross-Domain 83/83 Record (Book 10).
+- Technical roadmap: read the [Markdown article](./Deterministic_Intelligence_Governance_Probabilistic_Multi-Agent_Systems_Technical_Roadmap.md) or [preserved PDF](./Deterministic_Intelligence_Governance_Probabilistic_Multi-Agent_Systems_Technical_Roadmap.pdf) before reviewing the evidence books.
 - Full collection review: use the Master Book Catalog in the September 2026 collection package.
+
+## Technical roadmap
+
+### Deterministic Intelligence and Governance of Probabilistic Multi-Agent Systems
+
+This article is the interpretation, architecture, and technical-roadmap layer for this collection. It explains the proposed control-plane model—detection, policy selection, rule evaluation, enforceable state, executed control, and preserved evidence—before a reviewer moves to the underlying evidence books.
+
+It is intentionally separate from the evidence books: the article presents architecture and interpretation, while the books preserve records, exhibits, audits, and supporting materials. The article is not itself an independent validation record or a product-release claim.
+
+- [Read the Markdown article](./Deterministic_Intelligence_Governance_Probabilistic_Multi-Agent_Systems_Technical_Roadmap.md)
+- [Read the preserved 20-page PDF](./Deterministic_Intelligence_Governance_Probabilistic_Multi-Agent_Systems_Technical_Roadmap.pdf)
+- Canonical companion source: [Grounded DI governance repository](https://github.com/Grounded-DI/di-governance-of-probabilistic-multi-agent-systems)
+- Supplied PDF SHA-256: `5261404ff289e2f8779c16fac6c0760d41881dea2f5a6db49d526dc6b85ae422`
 
 ## Canonical book names
 
