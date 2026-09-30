@@ -14,10 +14,10 @@ The collection preserves historical labels inside the source materials while usi
 
 Choose the reading route that matches your purpose:
 
-- General orientation: Selected Exhibits - Foundations, then Selected Exhibits - Systems and Applications.
-- Legal review: Law Firm Decision and Evidence, followed by BriefWise - Harvey Benchmark Audit.
-- Governance and chronology: Public Record - Chronology, The Evidence Arc, and The Control Plane.
-- Technical case studies: Before Reality Resolved - DI Weather Station and MathWise / Erdos - Mathematical Record.
+- General orientation: [Selected Exhibits - Foundations](./Selected_Exhibits_Foundations.pdf), then [Selected Exhibits - Systems and Applications](./Selected_Exhibits_Systems_and_Applications.pdf).
+- Legal review: [Law Firm Decision and Evidence](./Law_Firm_Decision_and_Evidence.pdf), followed by [BriefWise - Harvey Benchmark Audit](./Harvey_Benchmark_Audit.pdf).
+- Governance and chronology: [Public Record - Chronology](./Public_Record_Chronology.pdf), [The Evidence Arc](./The_Evidence_Arc.pdf), and [The Control Plane](./The_Control_Plane.pdf).
+- Technical case studies: [Before Reality Resolved - DI Weather Station](./Before_Reality_Resolved_Weather_RC1.pdf) and [MathWise / Erdos - Mathematical Record](./MathWise_Erdos_Mathematical_Record.pdf).
 - Benchmark review: Cross-Domain 83/83 Record (Book 10).
 - Technical roadmap: read the [Markdown article](./Deterministic_Intelligence_Governance_Probabilistic_Multi-Agent_Systems_Technical_Roadmap.md) or [preserved PDF](./Deterministic_Intelligence_Governance_Probabilistic_Multi-Agent_Systems_Technical_Roadmap.pdf) before reviewing the evidence books.
 - Full collection review: use the Master Book Catalog in the September 2026 collection package.
@@ -41,15 +41,15 @@ The following display titles and filenames are the naming standard for the nine-
 
 | Group | Canonical display title | Standardized filename | Historical label |
 |---|---|---|---|
-| Exhibits | Selected Exhibits - Foundations | Selected_Exhibits_Foundations.pdf | Book 1 |
-| Exhibits | Selected Exhibits - Systems and Applications | Selected_Exhibits_Systems_and_Applications.pdf | Book 2 / Part II; fixed edition |
-| Public Record | Public Record - Chronology | Public_Record_Chronology.pdf | Book 3 |
-| Public Record | The Evidence Arc | The_Evidence_Arc.pdf | Book 6 |
-| Public Record | The Control Plane | The_Control_Plane.pdf | Book 7 |
-| Case Studies | Before Reality Resolved - DI Weather Station | Before_Reality_Resolved_Weather_RC1.pdf | Unnumbered; Release Candidate 1 |
-| Case Studies | MathWise / Erdos - Mathematical Record | MathWise_Erdos_Mathematical_Record.pdf | Book 5 |
-| Legal | Law Firm Decision and Evidence | Law_Firm_Decision_and_Evidence.pdf | Unnumbered |
-| Legal | BriefWise - Harvey Benchmark Audit | Harvey_Benchmark_Audit.pdf | Unnumbered; new book |
+| Exhibits | [Selected Exhibits - Foundations](./Selected_Exhibits_Foundations.pdf) | Selected_Exhibits_Foundations.pdf | Book 1 |
+| Exhibits | [Selected Exhibits - Systems and Applications](./Selected_Exhibits_Systems_and_Applications.pdf) | Selected_Exhibits_Systems_and_Applications.pdf | Book 2 / Part II; fixed edition |
+| Public Record | [Public Record - Chronology](./Public_Record_Chronology.pdf) | Public_Record_Chronology.pdf | Book 3 |
+| Public Record | [The Evidence Arc](./The_Evidence_Arc.pdf) | The_Evidence_Arc.pdf | Book 6 |
+| Public Record | [The Control Plane](./The_Control_Plane.pdf) | The_Control_Plane.pdf | Book 7 |
+| Case Studies | [Before Reality Resolved - DI Weather Station](./Before_Reality_Resolved_Weather_RC1.pdf) | Before_Reality_Resolved_Weather_RC1.pdf | Unnumbered; Release Candidate 1 |
+| Case Studies | [MathWise / Erdos - Mathematical Record](./MathWise_Erdos_Mathematical_Record.pdf) | MathWise_Erdos_Mathematical_Record.pdf | Book 5 |
+| Legal | [Law Firm Decision and Evidence](./Law_Firm_Decision_and_Evidence.pdf) | Law_Firm_Decision_and_Evidence.pdf | Unnumbered |
+| Legal | [BriefWise - Harvey Benchmark Audit](./Harvey_Benchmark_Audit.pdf) | Harvey_Benchmark_Audit.pdf | Unnumbered; new book |
 
 The catalog states that the historical labels are retained and that no new sequential book numbers are being assigned. The absence of a Book 4 entry is therefore intentional in the current collection record.
 
@@ -105,6 +105,6 @@ A SHA-256 value identifies the referenced bytes. It does not, by itself, establi
 
 ## Repository status
 
-This repository is intentionally a start-here index. At the current publication point, the GitHub repository contains the README navigation surface; the binary book package and companion Book 10 PDF remain separately identified publication artifacts.
+This repository is a start-here index and hosts the nine collection PDFs linked above, together with the technical-roadmap article and its preserved PDF. The collection ZIP, Master Book Catalog, Record_Index.csv, and companion Book 10 PDF remain separately identified publication artifacts and are not included in the current repository contents.
 
 The index does not claim that the books are a deployed product, an official certification, or an independently validated benchmark collection. It provides a stable naming, provenance, and review structure for the records that follow.
