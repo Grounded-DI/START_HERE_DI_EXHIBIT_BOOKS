@@ -108,3 +108,8 @@ A SHA-256 value identifies the referenced bytes. It does not, by itself, establi
 This repository is a start-here index and hosts the nine collection PDFs linked above, together with the technical-roadmap article and its preserved PDF. The collection ZIP, Master Book Catalog, Record_Index.csv, and companion Book 10 PDF remain separately identified publication artifacts and are not included in the current repository contents.
 
 The index does not claim that the books are a deployed product, an official certification, or an independently validated benchmark collection. It provides a stable naming, provenance, and review structure for the records that follow.
+
+
+## Curated mathematical collection
+
+The Book 5 MathWise / Erdos record is used as the discovery spine for [MathWise Deterministic Replay Certificates](https://github.com/Grounded-DI/MathWise-Deterministic-Replay-Certificates/tree/main/book-5-mathwise-erdos-record). This repository remains canonical for the exhibit-book PDF.
