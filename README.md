@@ -127,3 +127,16 @@ Source PDF SHA-256: `9ea080a33e4560fd1f4ab6f239aaa6b432ca0e6a6a4a7e46147321c7e32
 @Microsoft
 
 #DeterministicIntelligence #AgentGovernance #AIControl #ReplayableAudit #GroundedDI
+
+
+## Control audit and harness hardening — October 21, 2026
+
+The supplied six-page companion volume [Control Audit & Harness Hardening](./Grounded_DI_Control_Audit_and_Harness_Hardening_Book_2_2026-10-21.pdf) records the bounded local DI² v0.3.1 hardening sequence and a separately labeled mirror test against the pinned Microsoft Agent Governance Toolkit commit.
+
+It preserves the stated boundaries: local public-code testing; no live Microsoft service, production incident, product ranking, Microsoft-wide inference, or production-readiness claim. The PDF is an editorial synthesis, not a replacement for raw audit evidence.
+
+Source PDF SHA-256: `aabe681f1767078513d4202d53018ea1215600a18a6c03a9f7268a29c7cf7268`
+
+@Microsoft
+
+#DeterministicIntelligence #AgentGovernance #AIControl #ReplayableAudit #GroundedDI
