@@ -113,3 +113,17 @@ The index does not claim that the books are a deployed product, an official cert
 ## Curated mathematical collection
 
 The Book 5 MathWise / Erdos record is used as the discovery spine for [MathWise Deterministic Replay Certificates](https://github.com/Grounded-DI/MathWise-Deterministic-Replay-Certificates/tree/main/book-5-mathwise-erdos-record). This repository remains canonical for the exhibit-book PDF.
+
+## Two deterministic-control demos — October 20, 2026
+
+The complete text of the supplied 14-page book is preserved in the [companion text record](./Grounded_DI_Two_Deterministic_Control_Demos_Book_2026-10-21.md).
+
+Two demonstrations. Nine source captures. One bounded record.
+
+The record is limited to the audited implementation and supplied control checks. It does not establish production incidents, systemic deficiencies, or conclusions about Microsoft's broader AI infrastructure.
+
+Source PDF SHA-256: `9ea080a33e4560fd1f4ab6f239aaa6b432ca0e6a6a4a7e46147321c7e3264177`
+
+@Microsoft
+
+#DeterministicIntelligence #AgentGovernance #AIControl #ReplayableAudit #GroundedDI
