@@ -140,3 +140,9 @@ Source PDF SHA-256: `aabe681f1767078513d4202d53018ea1215600a18a6c03a9f7268a29c7c
 @Microsoft
 
 #DeterministicIntelligence #AgentGovernance #AIControl #ReplayableAudit #GroundedDI
+
+## Replay Engineering and Policy
+
+[Read the evidence book](./Replay_Engineering_and_Policy_v1_1.pdf) · [Machine-readable record](./Replay_Engineering_and_Policy_v1_1.json)
+
+This unnumbered volume presents a practical framework for defining and assessing reproducibility at specified boundaries. Eight selected public exhibits cover artifact identity, legal and scientific calculations, authorization, recovery and reconciliation. The book distinguishes project-local checks from unaffiliated validation and documents a case where matching canonical artifacts do not distinguish different histories.

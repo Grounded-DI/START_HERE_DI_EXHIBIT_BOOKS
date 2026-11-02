@@ -1,0 +1,110 @@
+{
+  "schema": "grounded-di-replay-engineering-policy-record-v1",
+  "title": "Replay Engineering and Policy: How to Define, Test and Interpret Deterministic Evidence",
+  "version": "1.1",
+  "creator": "Mark S. Weinstein",
+  "organization": "Grounded DI LLC",
+  "publication_date": "2026-11-02",
+  "document_type": "evidence book",
+  "page_count": 17,
+  "language": "en",
+  "pdf": {
+    "path": "Replay_Engineering_and_Policy_v1_1.pdf",
+    "size_bytes": 96922,
+    "sha256": "de183223acdfe051a24af6b08fca5a86f927f00992a1b87913821d2d10928a34",
+    "accessibility": {
+      "tagged": false,
+      "screen_reader_and_pdf_ua_compliance": "not established"
+    }
+  },
+  "replay_registry_snapshot": "965328d1173fe7f46034c18efb53ed7aa2679d07",
+  "scope": "Editorial synthesis of selected public records; eight is the selected exhibit count, not a count of all replay types or technologies.",
+  "audit_scope": "Selected NIST water source files and ReleaseGate V4 suite rerun locally during v1.1 audit; other exhibit outcomes are source-reported. Project-local checks do not constitute unaffiliated certification.",
+  "limitations": [
+    "Synthetic records do not establish real-world events.",
+    "Matching artifacts alone do not prove truth, historical execution, production readiness, compliance, or universal model determinism.",
+    "The Seven-Hash closure separately reports six computational boundaries and canonical repackaging of an unchanged historical payload; historical evidence archives were not hosted in the pinned registry record."
+  ],
+  "exhibits": [
+    {
+      "id": "S1",
+      "title": "Seven-Hash local closure",
+      "domain": "mathematics",
+      "assessed_object_or_boundary": "six computational boundaries; historical delivery ZIP repackaging",
+      "evidence_type": "fresh computational builds and canonical repackaging; hashes and bytes",
+      "source_reported_status": "Project-reported local pass",
+      "limitations": "Historical evidence archives not hosted at pinned registry; no cross-platform or universal model claim.",
+      "source_url": "https://github.com/Grounded-DI/grounded-di-replay-certificate-registry/blob/965328d1173fe7f46034c18efb53ed7aa2679d07/benchmarks/2026-10-19-seven-hash-replay-closure/README.md"
+    },
+    {
+      "id": "S2",
+      "title": "Integrated legal evidence chain",
+      "domain": "legal",
+      "assessed_object_or_boundary": "synthetic evidence stages and final disposition",
+      "evidence_type": "fresh recorded runs; project checker; negative controls",
+      "source_reported_status": "Project-reported local pass; INSUFFICIENT",
+      "limitations": "Fictional matter; project checker shares fixture/specification; not actual legal validation.",
+      "source_url": "https://github.com/Grounded-DI/grounded-di-replay-certificate-registry/blob/965328d1173fe7f46034c18efb53ed7aa2679d07/benchmarks/2026-10-19-integrated-legal-chain-replay/README.md"
+    },
+    {
+      "id": "S3",
+      "title": "NIST water temperature-dependent calculation",
+      "domain": "science",
+      "assessed_object_or_boundary": "source-bound calculation and seven canonical boundaries",
+      "evidence_type": "fresh executions, exact arithmetic, project checker and controls",
+      "source_reported_status": "Project-reported local pass; selected source files rerun locally in v1.1 audit",
+      "limitations": "Project transcription and model assumptions; not a physical measurement or source authentication.",
+      "source_url": "https://github.com/Grounded-DI/grounded-di-replay-certificate-registry/blob/965328d1173fe7f46034c18efb53ed7aa2679d07/benchmarks/2026-11-01-nist-water-shomate-temperature-replay/README.md"
+    },
+    {
+      "id": "S4",
+      "title": "Single-use authorization and crash recovery",
+      "domain": "authorization",
+      "assessed_object_or_boundary": "one cooperative local store and export attempt",
+      "evidence_type": "concurrency and process-kill scenarios; transition-history checker",
+      "source_reported_status": "Project-reported local pass",
+      "limitations": "At-most-one export creation attempt per authorization in cooperative store, not distributed exactly-once.",
+      "source_url": "https://github.com/Grounded-DI/grounded-di-replay-certificate-registry/blob/965328d1173fe7f46034c18efb53ed7aa2679d07/demos/2026-09-10-di2-single-use-crash-v1/README.md"
+    },
+    {
+      "id": "S5",
+      "title": "ReleaseGate V3 lost confirmation",
+      "domain": "recovery",
+      "assessed_object_or_boundary": "local pre-write record, destination bytes and retry",
+      "evidence_type": "fresh baseline replay; recovery scenarios and project checker",
+      "source_reported_status": "Project-reported local pass",
+      "limitations": "Trusted local directory and unsigned records; matching bytes do not establish historical cause.",
+      "source_url": "https://github.com/Grounded-DI/grounded-di-replay-certificate-registry/blob/965328d1173fe7f46034c18efb53ed7aa2679d07/benchmarks/2026-11-01-releasegate-v3-lost-confirmation/README.md"
+    },
+    {
+      "id": "S6",
+      "title": "ReleaseGate V4 planted-file control",
+      "domain": "execution history",
+      "assessed_object_or_boundary": "seven canonical outputs across two distinct local histories",
+      "evidence_type": "baseline and planted-file comparison; project checker and scenarios",
+      "source_reported_status": "Project-reported local pass; suite rerun locally in v1.1 audit",
+      "limitations": "Public fixture keys; matching canonical outputs did not distinguish the gate-written and planted-file histories.",
+      "source_url": "https://github.com/Grounded-DI/grounded-di-replay-certificate-registry/blob/965328d1173fe7f46034c18efb53ed7aa2679d07/benchmarks/2026-11-01-releasegate-v4-authenticated-receipt/README.md"
+    },
+    {
+      "id": "S7",
+      "title": "Delivery-to-inventory reconciliation",
+      "domain": "logistics",
+      "assessed_object_or_boundary": "fictional order, shipment, receiver and inventory records",
+      "evidence_type": "fresh runs, project checker and mutation controls",
+      "source_reported_status": "Project-reported local pass; one reconciled, four review",
+      "limitations": "Synthetic unauthenticated records do not prove physical delivery.",
+      "source_url": "https://github.com/Grounded-DI/grounded-di-replay-certificate-registry/blob/965328d1173fe7f46034c18efb53ed7aa2679d07/benchmarks/2026-11-02-delivery-inventory-reconciliation-replay/README.md"
+    },
+    {
+      "id": "S8",
+      "title": "VerdictBridge Demo 3 selective outcome",
+      "domain": "legal",
+      "assessed_object_or_boundary": "fixture-defined decision artifacts and export gate",
+      "evidence_type": "three local evaluator executions and invalid-hearsay control",
+      "source_reported_status": "Project-reported local pass",
+      "limitations": "New closed-world evaluator, not original engine or actual-jurisdiction legal validation.",
+      "source_url": "https://github.com/Grounded-DI/grounded-di-replay-certificate-registry/blob/965328d1173fe7f46034c18efb53ed7aa2679d07/demos/2026-10-05-verdictbridge-punitive-control-v1/README.md"
+    }
+  ]
+}
