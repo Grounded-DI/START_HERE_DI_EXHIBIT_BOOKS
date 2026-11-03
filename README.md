@@ -146,3 +146,12 @@ Source PDF SHA-256: `aabe681f1767078513d4202d53018ea1215600a18a6c03a9f7268a29c7c
 [Read the evidence book](./Replay_Engineering_and_Policy_v1_1.pdf) · [Machine-readable record](./Replay_Engineering_and_Policy_v1_1.json)
 
 This unnumbered volume presents a practical framework for defining and assessing reproducibility at specified boundaries. Eight selected public exhibits cover artifact identity, legal and scientific calculations, authorization, recovery and reconciliation. The book distinguishes project-local checks from unaffiliated validation and documents a case where matching canonical artifacts do not distinguish different histories.
+
+Rights and disclosure
+© 2026 Grounded DI LLC. All rights reserved in materials owned by Grounded DI LLC. Third-party rights remain with their respective owners.  
+
+These screenshots document selected development states. They do not establish production readiness, certification or independently verified performance. Underlying source code, private prompts and implementation materials are outside this disclosure. No license to those materials, patents or trademarks is granted by this publication. Applicable legal exceptions and existing permissions remain unaffected.
+
+#Grounded-DI #DeterministicIntelligence #AI 
+
+-Grounded DI LLC 
